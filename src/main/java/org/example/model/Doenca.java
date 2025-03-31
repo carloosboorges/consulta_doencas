@@ -25,9 +25,6 @@ public class Doenca {
         this.prevencao = prevencao;
     }
 
-
-
-    // Getters e Setters
     public Long getId() {
         return id;
     }
